@@ -1,0 +1,19 @@
+{
+	"ImportPath": "myMessage",
+	"GoVersion": "go1.5",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.6.0-1-g089242e",
+			"Rev": "089242eda050e0a298d3b5e9cae5eced74bcefa3"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-136-g7a8740a",
+			"Rev": "7a8740a6bd8feb6af5786ab9a9f1513970019d8c"
+		}
+	]
+}
